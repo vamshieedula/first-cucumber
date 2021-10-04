@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: testRunners.AmazonTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.337 s <<< FAILURE! - in testRunners.AmazonTest
+initializationError(testRunners.AmazonTest)  Time elapsed: 0.051 s  <<< ERROR!
+java.lang.IllegalArgumentException: path must exist: F:\vamshi\liveprojects\cucumberPractice\src\test\java\AppFeature
+
